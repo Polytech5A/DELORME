@@ -1,0 +1,12 @@
+metier/Oeuvrevente.class
+service/WService.class
+persistance/DialogueBd.class
+metier/Oeuvre.class
+metier/Pret.class
+metier/Reservation.class
+metier/Proprietaire.class
+meserreurs/MonException.class
+persistance/Connexion.class
+metier/Adherent.class
+metier/Oeuvrepret.class
+service/WSApplication.class
